@@ -1,8 +1,12 @@
 # Assignment_1_OOP
 Assignment 1 in course OOP
+
 Name: David Ehevich, ID: 212757405
+
 Name: Liel Zilberman, ID: 212480974
+
 Name: Najeeb Abdhalla, ID: 316436328
+
 Sources from last assignments:
 1. https://ieeexplore.ieee.org/document/6873645/authors#authors  
 2. https://towardsdatascience.com/elevator-optimization-in-python-73cab894ad30  
