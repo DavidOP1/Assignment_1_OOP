@@ -4,9 +4,9 @@ Name: David Ehevich, ID: 212757405
 Name: Liel Zilberman, ID: 212480974
 Name: Najeeb Abdhalla, ID: 316436328
 Sources from last assignments:
-1.
-2.
-3.
+1. https://ieeexplore.ieee.org/document/6873645/authors#authors  
+2. https://towardsdatascience.com/elevator-optimization-in-python-73cab894ad30  
+3. https://www.quora.com/What-are-ways-to-optimize-the-service-algorithm-for-an-elevator  
 
 Explaining the problem of the assignment:
 In this assignment unlike the first one , we don't receive new calls every period of time , this time we have all the calls available beforehand.
